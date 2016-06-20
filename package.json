@@ -1,0 +1,24 @@
+{
+  "name": "travis-migration-scheduler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "travis-ping": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kapgel/travis-migration-scheduler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kapgel/travis-migration-scheduler/issues"
+  },
+  "homepage": "https://github.com/kapgel/travis-migration-scheduler#readme"
+}
