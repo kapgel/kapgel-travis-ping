@@ -1,6 +1,6 @@
 {
   "name": "kapgel-travis-ping",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Travis ping with given repo and branch",
   "scripts": {
     "major": "npm version major -m 'New major version %s'",
